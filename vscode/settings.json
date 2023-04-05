@@ -1,0 +1,14 @@
+{
+    "window.zoomLevel": 1,
+    "files.insertFinalNewline": true,
+    "editor.fontSize": 14,
+    "editor.rulers": [
+        80,
+        100,
+        120
+    ],
+    "editor.wordWrap": "on",
+    "editor.minimap.scale": 2,
+    "editor.minimap.showSlider": "always",
+    "editor.renderWhitespace": "all"
+}
