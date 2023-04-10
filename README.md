@@ -21,3 +21,4 @@
 
 - Helpers:
   - Alphabet
+  - Keyboard G510 Keys
