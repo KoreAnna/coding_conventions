@@ -4,7 +4,7 @@
   - GIT
   - Visual Studio Code
 
-Hosters:
+- Hosters:
   - IHC.ru
 
 - Code Guidelines:
