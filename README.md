@@ -3,6 +3,7 @@
 - Program settings:
   - GIT
   - Visual Studio Code
+  - Sublime Text 3
 
 - Hosters:
   - IHC.ru
