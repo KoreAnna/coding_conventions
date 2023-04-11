@@ -19,6 +19,9 @@
 
 - Code Snippets:
   - HTaccess
+  - HTML
+  - JavaScript
+  - PHP
 
 - Helpers:
   - Alphabet
